@@ -1,4 +1,4 @@
-<img width="100%" height="300" src="https://img.freepik.com/free-photo/programming-code-abstract-technology-background-software-developer-computer-script_34663-31.jpg?w=2000">
+<img width="100%" height="280" src="https://img.freepik.com/free-photo/programming-code-abstract-technology-background-software-developer-computer-script_34663-31.jpg?w=2000">
 <h1 align="center">Hi 👋, I'm Sanjay Yadav</h1>
 <h4 align="center">I'm a passionate software developer and having a desire to learn and explore more makes me what I am.</h4>
 <img align="right" width="400" src="https://atymic.dev/assets/static/developer.c0c83f9.721e2ae285998aec923c86b700ad0497.svg">
